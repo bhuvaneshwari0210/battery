@@ -1,0 +1,16 @@
+Application,Zinc Anode (g),Lignin Cathode (g),Electrolyte (mL),Separator (Polypropylene),Current Collectors (Copper/Aluminum)
+Smartphones,10,10,20,10,10
+Laptops and Tablets,50,50,100,50,50
+Wearable Devices,5,5,10,5,5
+Cars,2000,2000,4000,2000,2000
+Bikes and Scooters,500,500,1000,500,500
+Solar Energy Storage,1500,1500,3000,1500,1500
+Wind Energy Storage,1500,1500,3000,1500,1500
+Cordless Drills and Saws,100,100,200,100,100
+Gardening Equipment,200,200,400,200,200
+Portable Medical Equipment,50,50,100,50,50
+Implantable Medical Devices,5,5,10,5,5
+Drones,25,25,50,5,10
+Spacecraft,500,500,1000,500,500
+Uninterruptible Power Supplies,1000,1000,2000,1000,1000
+Grid Energy Storage,5000,5000,10000,5000,5000

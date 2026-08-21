@@ -1,0 +1,16 @@
+Application,Zinc Anode,Lignin Cathode,Electrolyte,Separator,Current Collector,Battery Efficiency,OSA,NF,ESA,IC,Hybrid Graphene,Hybrid Carbon Nanotubes,Hybrid Metal Oxides
+Smartphones,500,800,300,200,150,85.5,100,80,50,0.8,0,0,0
+Laptops and Tablets,1000,1200,500,300,250,88.2,120,100,60,0.85,0,0,0
+Wearable Devices,300,500,150,100,80,82,80,70,40,0.75,0,0,0
+Cars,2500,3000,1200,800,600,90,300,200,100,0.9,0,0,0
+Bikes and Scooters,600,900,350,250,200,85.8,120,90,55,0.82,0,0,0
+Solar Energy Storage,5000,6000,2500,1500,1200,92.5,600,400,200,0.95,0,0,0
+Wind Energy Storage,4000,4800,2000,1200,1000,91,500,350,180,0.92,0,0,0
+Cordless Drills and Saws,800,1000,400,300,250,87.3,150,120,70,0.83,0,0,0
+Gardening Equipment,400,600,250,150,120,83.5,90,80,45,0.78,0,0,0
+Portable Medical Equipment,300,500,200,100,80,81,70,60,35,0.77,0,0,0
+Implantable Medical Devices,100,200,80,50,40,78.5,50,40,25,0.72,0,0,0
+Drones,600,800,300,200,150,86.7,130,100,60,0.84,0,0,0
+Spacecraft,1500,1800,700,400,350,89.8,250,180,90,0.88,0,0,0
+Uninterruptible Power Supplies,2500,3000,1200,800,600,91.2,350,250,130,0.91,0,0,0
+Grid Energy Storage,5000,6000,2500,1500,1200,93,700,500,250,0.96,0,0,0

@@ -1,0 +1,16 @@
+Application,lignin (S/m),graphene (S/m),carbon nanotubes (S/m),metal oxides (S/m),hybrid (graphene)(S/m),hybrid (carbon nanotubes)(S/m),hybrid (metal oxides) (S/m)
+Smartphones,10,12000,110000,1500,12010,110010,1510
+Laptops and Tablets,12,11000,105000,1300,11012,105012,1312
+Wearable Devices,8,10000,102000,1100,10008,102008,1108
+Cars,15,14000,115000,1800,14015,115015,1815
+Bikes and Scooters,11,13000,108000,1600,13011,108011,1611
+Solar Energy Storage,14,9000,100000,1400,9014,100014,1414
+Wind Energy Storage,9,8000,95000,1200,8009,95009,1209
+Cordless Drills and Saws,13,9500,98000,1250,9513,98013,1263
+Gardening Equipment,10,10000,99000,1500,10010,99010,1510
+Portable Medical Equipment,7,11000,104000,1350,11007,104007,1357
+Implantable Medical Devices,6,12000,107000,1400,12006,107006,1406
+Drones,9,13000,109000,1600,13009,109009,1609
+Spacecraft,14,12500,113000,1700,12514,113014,1714
+Uninterruptible Power Supplies,11,14000,115000,1800,14011,115011,1811
+Grid Energy Storage,13,13500,110000,1750,13513,110013,
